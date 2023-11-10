@@ -7,6 +7,7 @@ require (
 	github.com/amiruldev20/waSocket v1.0.3 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/joho/godotenv v1.5.1 // indirect
+	github.com/mattn/go-sqlite3 v1.14.18 // indirect
 	github.com/mdp/qrterminal v1.0.1 // indirect
 	github.com/probandula/figlet4go v0.0.0-20190224160619-d6cef5b186ea // indirect
 	go.mau.fi/libsignal v0.1.0 // indirect

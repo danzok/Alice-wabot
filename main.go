@@ -16,6 +16,7 @@ import (
 	"github.com/amiruldev20/waSocket/types/events"
 	message "github.com/danzok/Alice-wabot/system"
 	"github.com/joho/godotenv"
+	_ "github.com/mattn/go-sqlite3"
 	"github.com/mdp/qrterminal"
 	"github.com/probandula/figlet4go"
 )
